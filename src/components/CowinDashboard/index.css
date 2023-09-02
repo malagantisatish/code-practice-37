@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.cowin-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  height: 250vh;
+  align-items: center;
+}
+
+.navbar-container {
+  display: flex;
+  width: 100vw;
+  background-color: #1c1c2b;
+  height: 80px;
+  align-items: center;
+}
+
+.website-logo {
+  height: 50px;
+  margin-left: 20px;
+}
+
+.website-name {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 26px;
+  padding: 10px;
+}
+
+.failure-image-size {
+  height: 400px;
+  width: 600px;
+}
+.failure-view-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
